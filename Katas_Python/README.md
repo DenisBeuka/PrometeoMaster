@@ -1,0 +1,2 @@
+PrometeoMaster
+Cada parte del código y su funcionamiento viene ya en el codigo. Para resolver cada ejercicio, he trabajado en paralelo con un cuaderno de Jupyter, donde he tomado apuntes de cada lección. Cuando encontraba conceptos que no conocía, buscaba información en fuentes externas, como W3Schools. Si me quedaba atascado, recurría a ChatGPT para obtener ayuda y seguir avanzando. Pero siempre quedandome con los conceptos
